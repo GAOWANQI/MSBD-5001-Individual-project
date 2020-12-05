@@ -1,0 +1,1 @@
+Environment: Mac OS 10.15.5 python 3 using Jupyter Notebook.packages: numpy, pandas, matplotlib, xgboost, sklearn, skleran.preprocessing
